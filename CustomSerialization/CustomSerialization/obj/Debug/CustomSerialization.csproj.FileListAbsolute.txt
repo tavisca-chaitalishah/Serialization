@@ -1,0 +1,8 @@
+c:\users\cshah\documents\visual studio 2015\Projects\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.exe.config
+C:\Users\cshah\Documents\Visual Studio 2015\Projects\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.exe
+C:\Users\cshah\Documents\Visual Studio 2015\Projects\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.pdb
+C:\Users\cshah\Documents\Visual Studio 2015\Projects\CustomSerialization\CustomSerialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cshah\Documents\Visual Studio 2015\Projects\CustomSerialization\CustomSerialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cshah\Documents\Visual Studio 2015\Projects\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.csprojResolveAssemblyReference.cache
+C:\Users\cshah\Documents\Visual Studio 2015\Projects\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.exe
+C:\Users\cshah\Documents\Visual Studio 2015\Projects\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.pdb

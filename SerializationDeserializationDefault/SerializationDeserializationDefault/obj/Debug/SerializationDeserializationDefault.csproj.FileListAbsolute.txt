@@ -1,0 +1,8 @@
+c:\users\cshah\documents\visual studio 2015\Projects\SerializationDeserializationDefault\SerializationDeserializationDefault\bin\Debug\SerializationDeserializationDefault.exe.config
+c:\users\cshah\documents\visual studio 2015\Projects\SerializationDeserializationDefault\SerializationDeserializationDefault\bin\Debug\SerializationDeserializationDefault.exe
+c:\users\cshah\documents\visual studio 2015\Projects\SerializationDeserializationDefault\SerializationDeserializationDefault\bin\Debug\SerializationDeserializationDefault.pdb
+c:\users\cshah\documents\visual studio 2015\Projects\SerializationDeserializationDefault\SerializationDeserializationDefault\bin\Debug\Newtonsoft.Json.dll
+c:\users\cshah\documents\visual studio 2015\Projects\SerializationDeserializationDefault\SerializationDeserializationDefault\bin\Debug\Newtonsoft.Json.xml
+c:\users\cshah\documents\visual studio 2015\Projects\SerializationDeserializationDefault\SerializationDeserializationDefault\obj\Debug\SerializationDeserializationDefault.csprojResolveAssemblyReference.cache
+c:\users\cshah\documents\visual studio 2015\Projects\SerializationDeserializationDefault\SerializationDeserializationDefault\obj\Debug\SerializationDeserializationDefault.exe
+c:\users\cshah\documents\visual studio 2015\Projects\SerializationDeserializationDefault\SerializationDeserializationDefault\obj\Debug\SerializationDeserializationDefault.pdb

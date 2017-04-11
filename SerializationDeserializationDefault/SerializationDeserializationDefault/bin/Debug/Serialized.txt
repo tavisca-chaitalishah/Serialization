@@ -1,0 +1,29 @@
+{
+  "employee": null,
+  "companyEmployee": [
+    {
+      "person": {
+        "firstName": "Chaitali",
+        "lastName": "Shah",
+        "person_Id": 810
+      },
+      "employee_Id": 1,
+      "department": {
+        "department_Id": 12,
+        "departmentName": "developer"
+      }
+    },
+    {
+      "person": {
+        "firstName": "Chaitali",
+        "lastName": "Shah",
+        "person_Id": 810
+      },
+      "employee_Id": 1,
+      "department": {
+        "department_Id": 12,
+        "departmentName": "developer"
+      }
+    }
+  ]
+}
